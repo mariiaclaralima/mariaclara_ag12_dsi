@@ -21,4 +21,4 @@ Este projeto tem como objetivo utilizar conceitos iniciais de HTML, adicionando 
 ## Teste
 Imagem teste da página
 
-<img aling="right" height="300" src="https://i.imgur.com/zohFFPu_d.webp?maxwidth=760&fidelity=grand.png"  />
+<img aling="right" height="300" src="https://i.imgur.com/CbfYRI0.png"  />
